@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Sweety.
  - 👀 I’m interested in MERN Stack Web development & Open Source.
  - 🌱 I’m currently grinding on LC & CF.
+ -  💌 Email - sweetysingh91221@gmail.com
 
  
 
